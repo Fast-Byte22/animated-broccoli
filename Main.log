@@ -1,0 +1,13 @@
+18:25:05: 
+18:25:05: Main start
+18:25:05: Main thread eur to czk : before running thread
+18:25:05: Main thread eur to czk :  thread running 
+18:25:05: FX thread :  instrument 74450 in time 0.6553278 
+18:25:06: FX thread :  instrument 74450 in time 0.6016723000000002 
+18:25:07: FX thread :  instrument 74450 in time 0.9185690999999998 
+18:25:08: FX thread :  instrument 74450 in time 0.8479609999999997 
+18:25:09: FX thread :  instrument 74450 in time 0.6551900999999996 
+18:25:09: FX thread :  instrument 74450 in time 0.7901853000000001 
+18:25:10: FX thread :  instrument 74450 in time 0.7313288 
+18:25:11: FX thread :  instrument 74450 in time 0.7583434999999996 
+18:25:11: FX thread :  instrument 74450 in time 0.6458440000000003 
